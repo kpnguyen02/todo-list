@@ -9,7 +9,7 @@
             padding: 20px;
         }
 
-        /* Styls for the form */
+        /* Styles for the form */
         form {
             background-color: #545871;
             padding: 20px;
@@ -41,7 +41,7 @@
             margin-bottom: 5px;
         }
 
-        /* Alternating background coolors for the to-do list items */
+        /* Alternating background colors for the to-do list items */
         .todo-item:nth-child(even)
         {
             color: white;
@@ -53,7 +53,7 @@
             background-color: #ECD0CD;
         }
 
-        /* Style for the remove buttom  */
+        /* Style for the remove button  */
         .removeButton {
             color: white;
             cursor: pointer;
